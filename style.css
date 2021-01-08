@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  background-color: rgb(27, 27, 27);
+  margin: 0;
+  display: grid;
+  place-items: center;
+  font-family: "Poppins";
+  color: #fff;
+}
+
+.container {
+  position: relative;
+  width: 30%;
+  margin: 0 auto;
+  background: #232323;
+  padding: 2em;
+}
+
+.container h1 {
+  margin: 0;
+}
+
+.container p {
+  color: grat;
+}
